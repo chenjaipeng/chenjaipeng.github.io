@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: 网页制作作品集
+  url: /portfolio/ 
+  excerpt: "小组作品集"
+  image: heshui.gif
+    
+- title: 信息可视化作品集
+  url: /infovis/
+  excerpt: "个人作品集"
+  image: not_found.gif
+ 
+ 
+- title: 学习笔记
+  url: /study/ 
+  excerpt: "个人作品集"
+  image: ku_ku.jpg
+
+- title: Contact 联系我
+  url: /contact/
+  excerpt: "联系我，了解更多你想知道的"
+  image: timg.gif 
