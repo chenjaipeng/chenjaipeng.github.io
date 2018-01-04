@@ -11,12 +11,12 @@
   image: not_found.gif
  
 - title: 网页制作学习笔记
-  url: /study/ 
+  url: /posts/rwg/ 
   excerpt: "个人作品集"
   image: ku_ku.jpg
  
 - title: 信息可视化学习笔记
-  url: /study/ 
+  url: /posts/infovis/ 
   excerpt: "个人作品集"
   image: timg.gif 
   
