@@ -6,9 +6,9 @@ modified:
 excerpt: "作品集"
 tags: []
 image: 
-  feature: keshi_hua.jpg
+  feature: tu_pian.jpg
 ---
-#### [网页制作小组作品](https://chenjaipeng.github.io/portfolio/web/index.html)
+#### [网页制作小组作品](https://chenjiapeng.github.io/portfolio/web/index.html)
 
 
 <div class="tiles">
