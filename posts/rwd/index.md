@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "信息可视化笔记"
+title: "网页制作笔记"
 date: 2018-1-1T14:25:45-04:00
 modified:
 excerpt: ""
