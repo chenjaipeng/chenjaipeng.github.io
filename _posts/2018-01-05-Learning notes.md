@@ -27,7 +27,7 @@ image:
 
 ## 廖贵真
 - 网页设计方面：没有做更多的改变，文件档名也没有改变，直接将老师档名复制，例如："https://chenjaipeng.github.io/i18nl10n"
-- 文档名尽量使用英文，例如："https://chenjaipeng.github.io/%E4%B8%80%E4%BA%9B%E5%BB%BA%E8%AE%AE/"
+- 文档名尽量使用英文，例如："https://chenjaipeng.github.io/"
 - 网页很多地方都没有进行更改，图片没有放到相对应的images文件，![](<img src="https://chenjaipeng.github.io/images/" alt="teaser" itemprop="image">)
 
 ## 梁剑舜
