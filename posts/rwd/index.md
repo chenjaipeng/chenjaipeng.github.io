@@ -6,7 +6,7 @@ modified:
 excerpt: ""
 tags: []
 image: 
-  feature: bi_ji.gif
+  feature: Notes.gif
   teaser:
 ---
 

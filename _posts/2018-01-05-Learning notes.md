@@ -4,8 +4,8 @@ title:  "网页制作学习笔记"
 date:   2017-12-07 23:45:15 +0800
 categories: posts rwd
 image:
-  teaser: tiag.jpg
-  feature: tiag.jpg
+  teaser: Desktop.jpg
+  feature: Desktop.jpg
 ---
 
 ## 网站评价
