@@ -9,7 +9,7 @@ image:
   feature: 
 ---
 
-- <a href="https://public.tableau.com/views/_16303/1_1?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome%3Dno" target="_blank">![数据分析.png](https://i.loli.net/2018/01/08/5a533f009f126.png)</a>
+- <a href="https://public.tableau.com/views/_16303/1_1?:embed=y&:display_count=yes&publish=yes/Dashboard1?:showVizHome%3Dno" target="_blank">![数据分析.png](https://i.loli.net/2018/01/23/5a6725f592046.png)</a>
 
 
 
